@@ -117,6 +117,7 @@ Please note a few things:
 * 0.0.2 - Fixed bug of no minification of JavaScript files. Now using Uglify plugin for minification. Added css reset by Eric Meyer so that Grunt minifies the css rather than throwing errors. Updated documentation.
 * 0.0.1 - Initial commit
 
+
 ## Author ##
 Jasdeep Khalsa
 
